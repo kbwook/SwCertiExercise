@@ -6,7 +6,7 @@
 *.user
 .vs/
 Debug/
-ouput.txt
+output.txt
 
 # 빌드 결과 및 임시 파일
 bin/
