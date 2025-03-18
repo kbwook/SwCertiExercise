@@ -6,3 +6,32 @@
 *.user
 .vs/
 Debug/
+
+# 빌드 결과 및 임시 파일
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.user
+*.cache
+*.suo
+*.ilk
+*.log
+*.bak
+
+# Visual Studio 관련 파일
+.vs/
+*.vcxproj.user
+*.sln.docstates
+
+# NuGet 관련 파일
+packages/
+
+# 운영체제 관련 파일
+Thumbs.db
+Desktop.ini
+
+# 기타
+*.swp # Vim swap 파일
+*.DS_Store # macOS 폴더 설정 파일
